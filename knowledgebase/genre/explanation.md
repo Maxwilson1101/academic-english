@@ -6,6 +6,8 @@ Explanation genres explain how or why a phenomenon happens by organizing causes,
 
 Use an explanation genre when the task requires analysis of causal relations in natural, social, technical, or scientific phenomena.
 
+For language templates that realize these structures, use [Explanation Expression Patterns](explanation-expressions.md).
+
 Do not use an explanation genre when the task primarily requires static description, classification, or part-whole composition; use [Report Genre Specification](report.md) for those purposes.
 
 ## General Rules
